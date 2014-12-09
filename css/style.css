@@ -953,7 +953,7 @@ article .article-content h3,
 article .article-content h4,
 article .article-content h5,
 article .article-content h6 {
-  color: #333;
+  color: #009688;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -1520,7 +1520,7 @@ section.comment {
   overflow: hidden;
   line-height: 1.5em;
   font-size: 1em;
-  color: #333;
+  color: #009688;
   opacity: 0.6;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
   filter: alpha(opacity=60);
@@ -2090,7 +2090,7 @@ footer {
   border: 1px solid #ccc;
 }
 .article-content pre code {
-  color: #333;
+  color: #009688;
   background: none;
   text-shadow: none;
   padding: 0;
